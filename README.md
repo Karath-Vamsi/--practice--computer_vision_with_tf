@@ -1,4 +1,4 @@
-# Building a computer vision model which identifies type of clothing
+# Building a Computer Vision model using TensorFlow
 
 What you'll learn
 In this codelab, you'll learn:
