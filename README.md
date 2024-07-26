@@ -1,5 +1,8 @@
 # Building a Computer Vision model using TensorFlow
 
+A project from the Google AI/ML learning path.
+
+
 What you'll learn
 In this codelab, you'll learn:
 
