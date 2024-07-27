@@ -13,8 +13,10 @@ In this codelab, you'll learn:
 5. What is pooling
 6. How to improve computer vision and accuracy with convolutions
 7. Layers to enhance your neural network
+8. How to train computers to recognize features in an image in which the subject isn't clear
 
 What you'll build:
 
 1. A neural network that identifies articles of clothing
 2. A feature map of an image
+3. A convolutional neural network
